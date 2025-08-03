@@ -5,13 +5,11 @@
 }
 
 :root {
-  --primary: #102F5E;
-  --accent: #00D084;
-  --background: #FFFFFF;
-  --text: #111111;
-  --light-background: #F5F5F5;
-  --font-heading: 'Poppins', sans-serif;
-  --font-body: 'Open Sans', sans-serif;
+  --primary-color: #C8102E;   /* Bold Red */
+  --secondary-color: #2B2F36; /* Steel/Dark Slate for overlays */
+  --background-color: #FFFFFF;
+  --text-color: #1a1a1a;       /* Near-black for strong readability */
+  --muted-gray: #f8f9fa;
 }
 
 body {
